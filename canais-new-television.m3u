@@ -1,3 +1,5 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 01" tvg-logo="http://p6.vc/VLP" group-title="Canais | Jogos & Eventos",#EVENTOS 01
 http://pfsv.io:80/5946357394/70083/33377.ts
 #EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 02" tvg-logo="http://p6.vc/VLQ" group-title="Canais | Jogos & Eventos",#EVENTOS 02
